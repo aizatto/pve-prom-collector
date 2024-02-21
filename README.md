@@ -18,7 +18,7 @@ Copy the script over to your proxmox server
 Option 1: `curl`
 
 ```sh
-curl -O /usr/local/bin/pve-prom-collector.py https://raw.githubusercontent.com/aizatto/pve-prom-collector/main/pve-prom-collector.py
+curl -o /usr/local/bin/pve-prom-collector.py https://raw.githubusercontent.com/aizatto/pve-prom-collector/main/pve-prom-collector.py
 ```
 
 Option 2: `scp`
